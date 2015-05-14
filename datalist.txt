@@ -1,0 +1,34 @@
+# image
+IMAGE_FILE 0 = "./image/background0.png"
+IMAGE_FILE 1 = "./image/background1.png"
+IMAGE_FILE 2 = "./image/background2.png"
+IMAGE_FILE 3 = "./image/background3.png"
+IMAGE_FILE 4 = "./image/background4.png"
+IMAGE_FILE 5 = "./image/background5.png"
+IMAGE_FILE 6 = "./image/background6.png"
+IMAGE_FILE 7 = "./image/background7.png"
+IMAGE_FILE 8 = "./image/block.png"
+IMAGE_FILE 9 = "./image/boardbg_opened.png"
+IMAGE_FILE 10 = "./image/boardbg_closed.png"
+
+# font
+FONT_FILE 0 = "./font/UnDotumBold.ttf"
+FONT_SIZE 0 = "28"
+FONT_FILE 1 = "./font/UnDotumBold.ttf"
+FONT_SIZE 1 = "16"
+
+# music
+MUSIC_FILE 0 = "./sound/music0.ogg"
+MUSIC_FILE 1 = "./sound/music1.ogg"
+MUSIC_FILE 2 = "./sound/music2.ogg"
+MUSIC_FILE 3 = "./sound/music3.ogg"
+MUSIC_FILE 4 = "./sound/music4.ogg"
+MUSIC_FILE 5 = "./sound/music5.ogg"
+MUSIC_FILE 6 = "./sound/music6.ogg"
+
+# sound effect
+CHUNK_FILE 0 = "./sound/shift.wav"
+CHUNK_FILE 1 = "./sound/rotation.wav"
+CHUNK_FILE 2 = "./sound/drop.wav"
+CHUNK_FILE 3 = "./sound/overlimit.wav"
+CHUNK_FILE 4 = "./sound/levelup.wav"
